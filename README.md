@@ -16,6 +16,7 @@
    Current skills and areas of expertise
     - Technical Skill - CSS: I feel confident in styling some images, implementing media queries and also creating a cohisive theme
     - Soft Skill - Creativity: I have successfuly invisioned and implemented my ideas on projects by being playful and disciplined at the same time
+      
    Skills I need to develop or improve
     - Techical Skill - JavaScript: Learning how to bring the website I  built to life by adding functionality
     - Soft Skill - Communication: I need to learn how to articulate my thoughts in order to translate my ideas/problems clearly
@@ -24,6 +25,7 @@
     
    Key interests related to my career
     - To expand my interests, I want to explore the Game Development industry because I enjoy using the apps and no longer just want to be a user
+      
    Values that are important to me in a work environment
     - Honesty & Respect: I believe this promotes a positive culture
 
@@ -34,13 +36,15 @@
    List of industries & roles I have researched
     - UI Designer: main duty is to design a functional, convenient, and appealing user interface for the product
     - Full stack Engineer: Responsible for both the front-end and back-end work of the application
+      
    Particular areas that piqued my interest
     - Full stack: To not limit myself based off of what I enjoy, I feel like being a full-stack engineer would be the perfect balance of following interests & submitting to the demands of industry
       
 2. **Alignment with Personal Profile**:
     
    How these industries/roles align with my skills, interests, and values
-    - The front-end developer space requires one to create things that the user sees, and as someone who was once a user and loves unleashing their creativity, I believe that the looks matter as much as functionality. 
+    - The front-end developer space requires one to create things that the user sees, and as someone who was once a user and loves unleashing their creativity, I believe that the looks matter as much as functionality
+      
    Gaps or areas for further exploration
     - Different types of programming languages just to understand their functions
 
@@ -62,6 +66,7 @@
     
    Long-term career aspirations
     - Specialize in a particular area based on the interests and skills I would be developing over the years
+      
    How they align with my interests and skills
     - This would give me the creative freedom to work on projects that align with my passions and strengths
     - It would also secure a space for me in the industry as specialized developers are often in high demand in the job market
@@ -75,6 +80,7 @@
     - Get certificates from other online learning platforms
     - Engaging in Career Development Meetings
     - Complete and submit projects on time
+      
    Resources & support required
     - A supportive coach & engaging in dicussions
     - Online learning platforms like Coursera, Udemy, FreeCodeCamp
@@ -89,6 +95,7 @@
     - Continuous learning and improvement
     - Portfolio development and branding
     - Seeking career opportunities
+      
    Additional skills, experiences, or qualifications needed
     - Problem-solving skills
     - Improve my communication skills
