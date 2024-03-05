@@ -86,7 +86,7 @@
     - Online learning platforms like Coursera, Udemy, FreeCodeCamp
     - Join an Online community, follow other developers on social media, Attend workshops
     - Create a detailed day-to-day plan of all my tasks
-    - 
+      
 2. **Preparation for Long-term Goals**:
     
    Preparations necessary for my long-term aspirations
