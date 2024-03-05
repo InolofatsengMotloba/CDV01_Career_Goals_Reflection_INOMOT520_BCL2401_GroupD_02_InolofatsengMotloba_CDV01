@@ -53,7 +53,7 @@
 1. **Short-term Goals** (Next 1-2 years):
     
    SMART GOALS
-    - specific: I will learn a new programming language (JavaScript) and master it before starting with another one
+    - Specific: I will learn a new programming language (JavaScript) and master it before starting with another one
     - Measurable: I will complete the LMS courses on JavaScript Language topics and enroll in other short online courses, with a target of achieving at least 90% completion in each course
     - Achievable: Create one project that focuses on JavaScripyt every 6 months
     - Relevant: I will attend all my lectures within the year and attend Confrencess the next year to network
